@@ -1,0 +1,11 @@
+{
+  "name": "jerb_titles",
+  "version": "0.0.1",
+  "author": "Andrew & Derek",
+  "engines": {
+    "npm": "1.4.x"
+  },
+  "dependencies": {
+    "bootstrap": "3.3.4"
+  }
+}
