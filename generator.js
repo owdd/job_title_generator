@@ -13,7 +13,9 @@ var adjs = [
     'Dynamic',
     'Human',
     'Scaled',
-    'Legacy'
+    'Legacy',
+    'Deputy',
+    'Master'
 ];
 
 var nounModifiers = [
@@ -33,7 +35,15 @@ var nounModifiers = [
     'Network',
     'Optimization',
     'Quality',
-    'Marketing'
+    'Marketing',
+    'Business',
+    'Agile',
+    'Data',
+    'Information',
+    'Security',
+    'Metrics',
+    'Test',
+    'Quality'
 ];
 
 var nouns = [
@@ -63,7 +73,9 @@ var nouns = [
     'Meeting Attender',
     'Intern',
     'President',
-    'Assistant'
+    'Assistant',
+    'Automator',
+    'Facilitator'
 ];
 
 /**
